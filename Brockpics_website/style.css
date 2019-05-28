@@ -1,0 +1,39 @@
+img.hemi{
+  float: right;
+}
+
+nav{
+  background-color: darkgray;
+  padding: 10px 30% 10px 30%;
+  display: flex;
+  justify-content: space-between;
+}
+
+.product {
+width: 400px;
+border: 2px solid darkgray;
+margin: 10px 5px 10px 20px;
+}
+
+
+.parts-bin{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+background-image: url(autoshop.jpeg);
+background-repeat: no-repeat;
+background-size: cover;
+}
+
+
+.product-photo {
+  display: block;
+  margin: auto;
+}
+
+.product-title{
+  text-align: center;
+
+}
+
+.product-text{ text-align: center;}
