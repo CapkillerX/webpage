@@ -20,16 +20,11 @@ margin: 10px 5px 10px 20px;
 display: flex;
 flex-wrap: wrap;
 justify-content: space-around;
-background-image: url(autoshop.jpeg);
-background-repeat: no-repeat;
-background-size: cover;
+
 }
 
 
-.product-photo {
-  display: block;
-  margin: auto;
-}
+
 
 .product-title{
   text-align: center;
@@ -37,3 +32,8 @@ background-size: cover;
 }
 
 .product-text{ text-align: center;}
+
+.homepage-container{
+  display: flex;
+  justify-content: space-around;
+}
