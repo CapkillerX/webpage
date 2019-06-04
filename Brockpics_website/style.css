@@ -9,9 +9,15 @@ nav{
   justify-content: space-between;
 }
 
+.main_photo {
+  display: block;
+  margin: auto;
+
+}
+
 .product {
-width: 400px;
-border: 2px solid darkgray;
+width: 500px;
+border: 2px solid black;
 margin: 10px 5px 10px 20px;
 }
 
@@ -23,7 +29,10 @@ justify-content: space-around;
 
 }
 
-
+.Aboutpage{
+background-color: darkgray;
+ 
+}
 
 
 .product-title{
@@ -34,6 +43,23 @@ justify-content: space-around;
 .product-text{ text-align: center;}
 
 .homepage-container{
+  background-color: darkgray;
   display: flex;
   justify-content: space-around;
+}
+
+
+
+
+h2 {margin: 0;
+padding:20px }
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+.Gallery-main{
+  background-color: darkgray;
 }
