@@ -3,10 +3,13 @@ img.hemi{
 }
 
 nav{
-  background-color: darkgray;
+  background-color: #988871;
   padding: 10px 30% 10px 30%;
   display: flex;
   justify-content: space-between;
+}
+body{
+  margin: 0
 }
 
 .main_photo {
@@ -30,10 +33,13 @@ justify-content: space-around;
 }
 
 .Aboutpage{
-background-color: darkgray;
- 
+background-color:
+
 }
 
+.homepage-title {
+  background-color: #c19758e0;
+}
 
 .product-title{
   text-align: center;
@@ -43,12 +49,15 @@ background-color: darkgray;
 .product-text{ text-align: center;}
 
 .homepage-container{
-  background-color: darkgray;
+  background-color: #988871;
   display: flex;
   justify-content: space-around;
 }
 
-
+h1{text-align: center;
+  margin: 0;
+  padding: 10px;
+}
 
 
 h2 {margin: 0;
@@ -61,5 +70,32 @@ padding:20px }
 }
 
 .Gallery-main{
-  background-color: darkgray;
+  background-color:#988871;
+}
+
+
+
+.profile-pic{
+float: left;
+padding: 20px
+}
+
+.profile-info {
+ padding-top: 10%
+}
+
+.goldbar{
+background-color: #c19758e0
+}
+
+.background-aboutpage {
+  background-color: #988871;
+  height: 800px
+
+}
+.main-page-text{
+  background-color:#988871;
+  height: 200px
+
+
 }
